@@ -2,7 +2,9 @@
 Meu nome é GUstavo Henrique
 
 -Estou estudando no alura
+
 -Estou me desenvolvendo na linguagem JAVASCRIPT
+
 -Utilizo esse espaço para minha organição e compartilhamentos dos meus projetos desenvolvidos 
 
 
